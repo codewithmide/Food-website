@@ -1,4 +1,4 @@
-# E-Commerce Food Website
+# E-Commerce Food Website 🍜
 
 Fully responsive on mobile and tablet devices
 
@@ -14,4 +14,4 @@ Fully responsive on mobile and tablet devices
 
 ## Live view
 
-- [foodwebsitebymide]()
+- [foodwebsitebymide](https://foodwebsitebymide.netlify.app/)
